@@ -1,0 +1,5 @@
+Marian Alejandra Herrera Ayala - a00227534
+Gerardo Novelo - A01638691 
+Los participantes hicieron las funciones
+Maria Alejandra: main, lector, rellenarVector, parte 2(MaxPalindrome, palindromeSearch(string), palindromeSearch(string, int, int)) y impresionParte2
+Gerardo Novelo: parte 1(LPS, KMP) y parte 3(longestCommonSubstring)
